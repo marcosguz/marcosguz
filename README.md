@@ -5,16 +5,16 @@
 </h3>
 <hr>
 <p align="center">
-   <a href="https://www.linkedin.com/in/marcos-guzmán-nazareno-277161222" target="_blank">
+   <a href="https://www.linkedin.com/in/marcos-guzmán-nazareno" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Marcos"/>
    </a>
-   <a href="https://twitter.com/marccosgz" target="_blank">
+   <a href="https://twitter.com/marccosgz" target="blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
-   <a href="https://www.instagram.com/marcos_guz4/" target="_blank">
+   <a href="https://www.instagram.com/marcos_guz4/" target="blank">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Marcos" />
    </a> 
-   <a href="https://facebook.com/marcos.guzman.3950" target="_blank">
+   <a href="https://facebook.com/marcos.guzman.3950" target="blank">
       <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Marcos"  />
    </a> 
    <a href="https://komarev.com/ghpvc/?username=marcosguz">
